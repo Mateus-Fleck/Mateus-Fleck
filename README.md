@@ -5,7 +5,7 @@ Redes Sociais
 <!--[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fleckmateus)-->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fleck-b00a69155/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusfleck_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("flecknateus@gnail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fleckmateus@gmail.com?subject=fleckmateus@gmail.com&body=fleckmateus@gmail.com)
 
 <!--
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/mateusfleck)
@@ -26,8 +26,8 @@ Redes Sociais
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" src="" />
     <img align="center" src="" />
     <img align="center" src="" />
 
@@ -43,4 +43,3 @@ Apaixonado por tecnologia, educacao e por mudar a vida das pessoas através do c
 
 - 
 -
-
