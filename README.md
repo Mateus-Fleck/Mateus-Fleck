@@ -18,15 +18,6 @@ Redes Sociais
 
 ## Tecnologias que eu mais uso no meu dia a dia. 
 
-<div>
-    <a href="https://github.com/Mateus-Fleck">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=github_dark">
-    <a href="https://github.com/Mateus-Fleck">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Fleck&hide_progress=true&theme=github_dark">
-
-</div>
-
-
 <!-- LOGO STACKS -->
 <div style="display: inkine_block"></br>
     <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
@@ -34,9 +25,15 @@ Redes Sociais
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
           
-</div><br/>
+</div><br>
             
+<div>
+    <a href="https://github.com/Mateus-Fleck">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=github_dark">
+    <a href="https://github.com/Mateus-Fleck">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Fleck&hide_progress=true&theme=github_dark">
 
+</div><br>
 
 <div style="display: inkine_block"><br>
     <img align="center" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -53,7 +50,7 @@ Redes Sociais
     <img align="center" src="" />
 -->
 
-</div><br/>
+</div><br>
 
 
 ## Links 
