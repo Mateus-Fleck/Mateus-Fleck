@@ -12,12 +12,17 @@ Redes Sociais
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-)](https://www.youtube.com/channel/UCzNwN7pLUsWLew1NQqai-dQ)-->
 
 
-![Mateus Fleck GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=transparent)
 
-## Tecnologias que eu usos no meu dia. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Fleck&hide_progress=true)
+## Tecnologias que eu uso no meu dia. 
 
+<div>
+    <a href="https://github.com/Mateus-Fleck">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=github_dark">
+    <a href="https://github.com/Mateus-Fleck">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Fleck&hide_progress=true&theme=github_dark">
+
+</div>
 
 <div style="display: inkine_block"></br>
     <img align="center" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
