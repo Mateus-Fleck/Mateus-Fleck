@@ -14,7 +14,7 @@ Redes Sociais
 
 ![Mateus Fleck GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=transparent)
 
-## Tecnologias que eu usos no meu dia. 
+## Tecnologias que eu mais uso no meu dia a dia. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Fleck&hide_progress=true)
 
