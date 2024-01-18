@@ -62,7 +62,6 @@ Redes Sociais
 Perfil do Microsofot Learn Student
 - [Microsoft Learn Student](https://learn.microsoft.com/pt-br/users/fleckdattaanalytics/)
 
-
 Perfil na Plataforma Edtech - Digital Innovation One
 - [DIO Digital Innovation One](https://www.dio.me/users/fleckmateus)
 <img align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Meu%20Perfil%20DIO%20-%20Digital%20Innovation%20One.png" />
