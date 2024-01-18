@@ -30,7 +30,7 @@ Redes Sociais
     <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />  
+    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
           
 </div><br/>
             
@@ -64,6 +64,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através do
 - [DIO Digital Innovation One](https://www.dio.me/users/fleckmateus)  
 
 - 
--
-
 -
