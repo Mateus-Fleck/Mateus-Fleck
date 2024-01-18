@@ -59,9 +59,11 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através do
 
 ## Links 
 
-- [Microsoft Lear Student](https://learn.microsoft.com/pt-br/users/fleckdattaanalytics/)
+Perfil do Microsofot Learn Student
+- [Microsoft Learn Student](https://learn.microsoft.com/pt-br/users/fleckdattaanalytics/)
 
+Perfil na Plataforma Edtech - Digital Innovation One
 - [DIO Digital Innovation One](https://www.dio.me/users/fleckmateus)  
 
-- 
+
 -
