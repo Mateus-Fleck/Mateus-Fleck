@@ -1,15 +1,10 @@
 ### Olá! Seja muito bem vindoao meu perfil. Eu sou Mateus FLeck 🖐🏻
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://medium.com/@fleckmateus)
-
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-)](https://www.youtube.com/channel/UCzNwN7pLUsWLew1NQqai-dQ)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fleck-b00a69155/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusfleck_/)
-
-![Mateus Fleck GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=transparent)
+[![Mateus Fleck GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Fleck&show_icons=true&theme=transparent)
 
 
 ## Tecnologias que eu usos no meu dia. 
