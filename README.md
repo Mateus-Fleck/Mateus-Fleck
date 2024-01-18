@@ -21,9 +21,11 @@ Redes Sociais
 <!-- LOGO STACKS -->
 <div style="display: inkine_block"></br>
     <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Logo_PowerBI_png.png" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    
           
 </div><br>
             
