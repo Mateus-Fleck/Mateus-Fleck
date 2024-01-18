@@ -59,6 +59,11 @@ Redes Sociais
 
 ## Links 
 
+<div>
+    <a href="https://www.dio.me/users/fleckmateus">
+    <img height="500" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Meu%20Perfil%20DIO%20-%20Digital%20Innovation%20One.png">
+</div><br>
+
 Perfil do Microsofot Learn Student
 - [Microsoft Learn Student](https://learn.microsoft.com/pt-br/users/fleckdattaanalytics/)
 
