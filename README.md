@@ -61,11 +61,11 @@ Redes Sociais
 Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdomain=br)
 
 <div style="display: inkine_block"></br>
-    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
-    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-modelling.png" />
-    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_dax-master.png" />
-    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-viz-pro.png" />
-    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_service-architect.png" />
+    <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
+    <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-modelling.png" />
+    <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_dax-master.png" />
+    <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-viz-pro.png" />
+    <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_service-architect.png" />
 </div><br>
 
 
