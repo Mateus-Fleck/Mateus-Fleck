@@ -1,4 +1,4 @@
-### Olá! Seja muito bem vindoao meu perfil. Eu sou Mateus Fleck 🖐🏻
+### Olá! Seja muito bem vindo ao meu perfil. Eu sou Mateus Fleck 🖐🏻
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://medium.com/@fleckmateus)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-)](https://www.youtube.com/channel/UCzNwN7pLUsWLew1NQqai-dQ)
