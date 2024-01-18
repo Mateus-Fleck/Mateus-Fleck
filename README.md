@@ -57,6 +57,21 @@ Redes Sociais
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
 
+## Formação em Power BI - XPERIUN [![Leonardo Karpinski]]
+
+<div style="display: inkine_block"></br>
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-modelling.png" />
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_dax-master.png" />
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-viz-pro.png" />
+    <img height="100" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_service-architect.png" />
+</div><br>
+
+
+<!--   //   ---   \\   -->   <!--   //   ---   \\   -->
+
+
+
 ## Links 
 
 Perfil do Microsofot Learn Student
