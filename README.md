@@ -7,14 +7,14 @@ Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusfleck_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fleckmateus@gmail.com?subject=fleckmateus@gmail.com&body=fleckmateus@gmail.com)
 
-<!--
+<!-- 
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/mateusfleck)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-)](https://www.youtube.com/channel/UCzNwN7pLUsWLew1NQqai-dQ)-->
 
 
 
 
-## Tecnologias que eu uso no meu dia. 
+## Tecnologias que eu mais uso no meu dia a dia. 
 
 <div>
     <a href="https://github.com/Mateus-Fleck">
@@ -30,7 +30,7 @@ Redes Sociais
     <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
           
 </div><br/>
             
