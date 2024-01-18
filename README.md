@@ -1,4 +1,4 @@
-### Olá! Seja muito bem vindo ao meu perfil. Eu sou Mateus Fleck 🖐🏻
+### Olá! Eu sou Mateus Fleck 🖐🏻
 
 Redes Sociais
 
