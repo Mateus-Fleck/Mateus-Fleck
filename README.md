@@ -33,7 +33,7 @@ Redes Sociais
 
 </div><br/>
 
-Apaixonado por tecnologia, educacao e por mudar a vida das pessoas através do conhecimento. 
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento. 
 
 ## Links 
 
