@@ -1,5 +1,7 @@
 ### Olá! Eu sou Mateus Fleck 🖐🏻
 
+Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento.
+
 Redes Sociais
 
 <!--[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fleckmateus)-->
@@ -53,9 +55,6 @@ Redes Sociais
 
 </div><br/>
 
-
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento. 
 
 ## Links 
 
