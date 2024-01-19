@@ -6,8 +6,9 @@ Tenho interesse por Arquitetura de Soluções, Engenharia de Dados, Cloud, BigDa
 
 Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Learning Operations). 
 
-Microsoft Certified: Power BI Data Analyst Associate
-Agendado 22/02/2024
+Microsoft Certified: Power BI Data Analyst Associate 
+
+Prova Agendada 22/02/2024
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
 
