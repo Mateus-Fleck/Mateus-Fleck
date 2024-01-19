@@ -69,7 +69,7 @@ Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdo
 </div><br>
 <div>
     <a href="">
-    <img height="500" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
+    <img height="600" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
 </div><br>
 
 
