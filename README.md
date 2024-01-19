@@ -59,7 +59,10 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 ## Formação em Power BI - XPERIUN 
 Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdomain=br)
-
+<div>
+    <a href="">
+    <img height="600" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
+</div><br>
 <div style="display: inkine_block"></br>
     <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
     <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-modelling.png" />
@@ -67,10 +70,7 @@ Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdo
     <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-viz-pro.png" />
     <img height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_service-architect.png" />
 </div><br>
-<div>
-    <a href="">
-    <img height="600" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
-</div><br>
+
 
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
