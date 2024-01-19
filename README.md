@@ -61,8 +61,9 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdomain=br)
 <div>
     <a href="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
-    <img height="600" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
-</div><br>
+    <img height="600" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg" class="img-responsive">
+</div><br>d
+    
 <div style="display: inkine_block"></br>
     <img align="center" height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
     <img align="center" height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_data-modelling.png" />
@@ -87,5 +88,5 @@ Perfil na Plataforma Edtech - Digital Innovation One
 
 <div>
     <a href="https://www.dio.me/users/fleckmateus">
-    <img height="500" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Meu%20Perfil%20DIO%20-%20Digital%20Innovation%20One.png">
+    <img height="500" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Meu%20Perfil%20DIO%20-%20Digital%20Innovation%20One.png" class="img-responsive">
 </div><br>
