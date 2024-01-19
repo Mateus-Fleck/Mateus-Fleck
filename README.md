@@ -1,6 +1,6 @@
 ### Olá! Eu sou Mateus Fleck 🖐🏻
 
-Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento.
+#### Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento.
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
 
@@ -62,7 +62,7 @@ Prof. - [Leonardo Karpinski](https://www.linkedin.com/in/leokarpa/?originalSubdo
 <div>
     <a href="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg">
     <img height="400" align="center" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/Certificate%20-%20Mateus%20Fleck%20-%20Curso%20Completo%20de%20Power%20BI%20-%20Prof.%20Leonardo%20Karpinski.jpg" class="img-responsive">
-</div><br>d
+</div><br>
     
 <div style="display: inkine_block"></br>
     <img align="center" height="150" src="https://github.com/Mateus-Fleck/Mateus-Fleck/blob/main/b_power-query-ass.png" />
