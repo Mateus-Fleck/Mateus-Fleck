@@ -2,6 +2,13 @@
 
 #### Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento.
 
+Tenho interesse por Arquitetura de soluções, engenharia de Dados, Cloud, BigData, IA Gen.
+
+Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Learning Operations). 
+
+Microsoft Certified: Power BI Data Analyst Associate
+Agendado 22/02/2024
+
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
 
 ## Redes Sociais
