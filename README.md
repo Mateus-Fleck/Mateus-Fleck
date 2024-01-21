@@ -15,12 +15,12 @@ Prova Agendada 22/02/2024
 ## Redes Sociais
 
 <!--[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fleckmateus)-->
+[![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/mateusfleck)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fleck-b00a69155/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusfleck_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fleckmateus@gmail.com?subject=fleckmateus@gmail.com&body=fleckmateus@gmail.com)
 
 <!-- 
-[![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/mateusfleck)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-)](https://www.youtube.com/channel/UCzNwN7pLUsWLew1NQqai-dQ)-->
 
 
