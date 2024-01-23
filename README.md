@@ -16,7 +16,7 @@ Prova Agendada 22/02/2024
 
 <!--[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fleckmateus)-->
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/mateusfleck)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fleck-b00a69155/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fleck/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusfleck_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fleckmateus@gmail.com?subject=fleckmateus@gmail.com&body=fleckmateus@gmail.com)
 
