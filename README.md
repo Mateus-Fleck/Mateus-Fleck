@@ -2,7 +2,7 @@
 
 #### Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através do conhecimento.
 
-Tenho interesse por Arquitetura de Soluções, Engenharia de Dados, Cloud, BigData, DevOps e IA Gen.
+Tenho interesse por Analise de Dados, Arquitetura de Soluções, Engenharia de Dados, Cloud, BigData, DevOps e IA Gen.
 
 Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Learning Operations). 
 
