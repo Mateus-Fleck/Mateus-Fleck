@@ -6,9 +6,9 @@ Tenho interesse por Analise de Dados, Arquitetura de Soluções, Engenharia de D
 
 Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Learning Operations). 
 
-Microsoft Certified: Power BI Data Analyst Associate 
-
-Prova Agendada 22/02/2024
+Future Microsoft Certified: 
+DP-600 Fabric Analytics Engineer Associate
+PL-300 Power BI Data Analyst Associate 
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
 
