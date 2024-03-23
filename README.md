@@ -6,10 +6,12 @@ Tenho interesse por Analise de Dados, Arquitetura de Soluções, Engenharia de D
 
 Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Learning Operations). 
 
-Studying for Microsoft Certifications:
 
-    [] PL-300 Power BI Data Analyst Associate
-    [] DP-600 Fabric Analytics Engineer Associate
+### Studying for Microsoft Certifications:
+
+    [ ] PL-300 Power BI Data Analyst Associate
+    [ ] DP-600 Fabric Analytics Engineer Associate
+    [ ] AI-900 Azure AI Fundamentals
 
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
