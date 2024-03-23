@@ -8,8 +8,8 @@ Meu objetivo de carreira profissional é me especializar em ML Ops (Machine Lear
 
 Studying for Microsoft Certifications:
 
-    [] PL-300 Power BI Data Analyst Associate<br>
-    [] DP-600 Fabric Analytics Engineer Associate<br>
+    [] PL-300 Power BI Data Analyst Associate
+    [] DP-600 Fabric Analytics Engineer Associate
 
 
 <!--   //   ---   \\   -->   <!--   //   ---   \\   -->
